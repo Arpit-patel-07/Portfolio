@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+    margin: 0;
+    /* background-color:#001e4d; */
+    /* background-color:#000610; */
+    background-color: #111827;
+}
+
+.scrollspy{
+    background-color:#111827;  
+    /* background-color:#000610;*/ 
+} 
+
+.navbar{
+    background-color: #111827;
+    /* background-color:#000610; */
+}
